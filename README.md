@@ -1,5 +1,8 @@
 # safetyprint_server
 
+### client
+https://github.com/namysu/safetyprint_client
+
 ### API reference
 ```text
 /v1/get/user
